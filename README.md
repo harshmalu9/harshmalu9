@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Most Used Languages (Including Private Repos)
+## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-one-tau-62.vercel.app/api/top-langs/?username=harshmalu9&layout=compact&theme=tokyonight" />
