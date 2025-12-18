@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Interested in **Software Development, iOS, Web & AI**
+- 💻 Interested in **Software Development, iOS & Web**
 - 🚀 Love building real-world projects
 - 📚 Always learning new technologies
 
@@ -41,9 +41,3 @@
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [https://github.com/harshmalu](https://github.com/harshmalu9)
-
----
-
-⭐️ *Stats include private repositories via self-hosted GitHub Readme Stats*
