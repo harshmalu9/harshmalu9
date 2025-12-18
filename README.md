@@ -1,29 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">Developer | Tech Enthusiast | Learner</h3>
 
-<!--
-**harshmalu9/harshmalu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 Interested in **Software Development, iOS, Web & AI**
+- 🚀 Love building real-world projects
+- 📚 Always learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmalu9&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-one-tau-62.vercel.app/api?username=harshmalu9&show_icons=true&theme=tokyonight" />
+</p>
 
-## 📈 GitHub Stats
+---
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmalu9&show_icons=true)
+## 🧠 Most Used Languages (Including Private Repos)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmalu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-one-tau-62.vercel.app/api/top-langs/?username=harshmalu9&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshmalu9&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: C++, Swift, JavaScript, Python
+- **Frameworks**: UIKit, Node.js
+- **Tools**: Git, GitHub, Xcode, VS Code
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/harshmalu](https://github.com/harshmalu9)
+
+---
+
+⭐️ *Stats include private repositories via self-hosted GitHub Readme Stats*
