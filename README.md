@@ -36,8 +36,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: C++, Swift, JavaScript, Python
-- **Frameworks**: UIKit, Node.js
-- **Tools**: Git, GitHub, Xcode, VS Code
+- **Frameworks**: React, Node.js
+- **Tools**: Git, GitHub, VS Code, Xcode
 
 ---
 
